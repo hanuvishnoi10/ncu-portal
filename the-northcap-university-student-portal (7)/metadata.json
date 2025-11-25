@@ -1,0 +1,5 @@
+{
+  "name": "The NorthCap University Student Portal",
+  "description": "A comprehensive student portal for The NorthCap University featuring attendance tracking, timetables, fee management, exam results, and an AI-powered student assistant.",
+  "requestFramePermissions": []
+}
